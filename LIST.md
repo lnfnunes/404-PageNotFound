@@ -13,3 +13,4 @@
 - [Node Source](https://nodesource.com/404)
 - [Slack](https://slack.com/404)
 - [Survey Legend](https://www.surveylegend.com/404)
+- [Partido dos Trabalhadores (PT)](http://www.pt.org.br/404)
