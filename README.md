@@ -1,12 +1,12 @@
 <img src="http://lnfnunes.com.br/img/logo404.png" alt="Project 404 Not Found" />
 
-# Project Not Found
+# 404 Page Not Found
 
 > An inspiration gallery for those boring 404 pages.
 
 ## The problem
 
-*"Page Not Found"* pages are, most of the time, overlooked by backlogs.
+*"404 Not Found"* pages are, most of the time, overlooked by backlogs.
 But we know the truth! The truth is that you will face one of them sometime of your life and when facing a nice and friendly 404 page makes all the difference to the user experience (UX).
 
 ## Motivation
