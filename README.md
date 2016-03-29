@@ -26,6 +26,9 @@ If you're still not convinced, check out these amazing examples:
 ## Contributing
 If you are tired of all that same boring 404 pages, [read the guideline and add some inpirational link](CONTRIBUTING.md) to help spread the ideia of having this experience into backlogs.
 
+## Thanks to...
+* [Luiz Felipe](https://github.com/luisfmsouza) for supporting this idea =)
+
 ## License
 The MIT License (MIT)
 
