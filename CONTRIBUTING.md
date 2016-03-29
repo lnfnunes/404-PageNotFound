@@ -6,6 +6,6 @@ Your contributions are always welcome!
 ## Guidelines
 
 * Search previous suggestions on the list before making a new one as yours may be duplicate.
-* Add your links: `- [link-name](http://404example.com/)`
+* Add your links to our [list](LIST.md): `- [link-name](http://404example.com/)`
 * Make sure your text editor is set to remove trailing whitespace.
 * Send a Pull Request.
