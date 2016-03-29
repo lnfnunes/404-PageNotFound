@@ -28,7 +28,7 @@ If you're still not convinced, check out these amazing examples:
 [Check the full list](LIST.md)
 
 ## Contributing
-If you are tired of all that same boring 404 pages, [read the guideline and add some inpirational link](CONTRIBUTING.md) to help spread the ideia of having this experience into backlogs.
+If you are tired of all that same boring 404 pages, [read the guideline and add some inspirational link](CONTRIBUTING.md) to help spread the ideia of having this experience into backlogs.
 
 ## Thanks to...
 * [Luís Felipe](https://github.com/luisfmsouza) for supporting this idea =)
