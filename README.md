@@ -22,6 +22,7 @@ If you're still not convinced, check out these amazing examples:
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
 - [AirBnb](https://www.airbnb.com.br/pagenotfound)
 - [Coca Company](http://www.coca-colacompany.com/404/)
+- [CodeSchool](http://codeschool.com/404)
 
 ## Contributing
 If you are tired of all that same boring 404 pages, [read the guideline and add some inpirational link](CONTRIBUTING.md) to help spread the ideia of having this experience into backlogs.
