@@ -29,7 +29,7 @@ If you're still not convinced, check out these amazing examples:
 If you are tired of all that same boring 404 pages, [read the guideline and add some inpirational link](CONTRIBUTING.md) to help spread the ideia of having this experience into backlogs.
 
 ## Thanks to...
-* [Luiz Felipe](https://github.com/luisfmsouza) for supporting this idea =)
+* [Luís Felipe](https://github.com/luisfmsouza) for supporting this idea =)
 
 ## License
 The MIT License (MIT)
@@ -53,4 +53,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
