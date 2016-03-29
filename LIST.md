@@ -8,6 +8,7 @@
 - [CodeSchool](http://codeschool.com/404)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
 - [Disqus](https://disqus.com/by/a/) (change on each refresh)
+- [GitHub](https://github.com/404)
 - [Lego](http://www.lego.com/404notfound)
 - [Node Source](https://nodesource.com/404)
 - [Slack](https://slack.com/404)
