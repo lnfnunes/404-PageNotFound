@@ -1,4 +1,6 @@
-<img src="http://lnfnunes.com.br/img/logo404.png" alt="Project 404 Not Found" />
+<p align="center">
+  <img src="http://lnfnunes.com.br/img/logo404.png" alt="Project 404 Not Found" />
+</p>
 
 ## Full list
 
