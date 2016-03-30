@@ -4,6 +4,7 @@
 
 - [AirBnb](https://www.airbnb.com.br/pagenotfound)
 - [Blizzard](http://us.blizzard.com/en-us/not-found.html)
+- [Bluegg](http://bluegg.co.uk/404)
 - [Coca Company](http://www.coca-colacompany.com/404/)
 - [CodeSchool](http://codeschool.com/404)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
@@ -11,7 +12,6 @@
 - [GitHub](https://github.com/404)
 - [Lego](http://www.lego.com/404notfound)
 - [Node Source](https://nodesource.com/404)
+- [Partido dos Trabalhadores (PT)](http://www.pt.org.br/404)
 - [Slack](https://slack.com/404)
 - [Survey Legend](https://www.surveylegend.com/404)
-- [Bluegg](http://bluegg.co.uk/404)
-- [Partido dos Trabalhadores (PT)](http://www.pt.org.br/404)
