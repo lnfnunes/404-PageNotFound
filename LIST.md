@@ -50,6 +50,7 @@
 - [Star Wars](http://br.starwars.com/404)
 - [Starbucks](http://www.starbucks.com/static/error/index.html)
 - [Survey Legend](https://www.surveylegend.com/404)
+- [Tinsanity](http://www.tinsanity.net/404.shtml)
 - [Tripomatic](http://www.tripomatic.com/404)
 - [Urban Outfitters](http://www.urbanoutfitters.com/urban/html/404.html)
 - [Viadeo](http://www.viadeo.com/404)
