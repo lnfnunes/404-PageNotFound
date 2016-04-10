@@ -23,6 +23,7 @@
 - [eHarmony](http://www.eharmony.com/404/)
 - [EyeEm](https://www.eyeem.com/404.html)
 - [fléava](http://fleava.com/404)
+- [Giphy](http://giphy.com/404)
 - [GitHub](https://github.com/404)
 - [Hakin.se](http://hakim.se/experiments/html5/404)
 - [Home Star Runners](http://www.homestarrunner.com/random_garbage_text)
