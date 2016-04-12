@@ -30,6 +30,7 @@
 - [Huml](http://huml.org/404.shtml)
 - [Huwshimi](http://huwshimi.com/404/)
 - [Iconfinder](https://www.iconfinder.com/404)
+- [Imgur](http://imgur.com/404)
 - [KidMondo](http://kidmondo.com/404)
 - [Klaus](http://www.klaus.dk/404040404040404)
 - [Lego](http://www.lego.com/404notfound)
