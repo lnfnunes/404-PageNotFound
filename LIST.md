@@ -37,6 +37,8 @@
 - [Magnt](http://www.magnt.com/404/)
 - [Mail Chimp](http://mailchimp.com/404/)
 - [Mailgun](http://www.mailgun.com/404)
+- [MarvelApp](https://marvelapp.com/404/)
+- [Marvel](http://marvel.com/404) (change on each refresh)
 - [Mike Kus](http://mikekus.com/404)
 - [Mozilla](https://www.mozilla.org/en-US/404)
 - [Node Source](https://nodesource.com/404)
