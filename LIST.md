@@ -39,6 +39,7 @@
 - [Mailgun](http://www.mailgun.com/404)
 - [MarvelApp](https://marvelapp.com/404/)
 - [Marvel](http://marvel.com/404) (change on each refresh)
+- [Mashable](http://mashable.com/404)
 - [Mike Kus](http://mikekus.com/404)
 - [Mozilla](https://www.mozilla.org/en-US/404)
 - [Node Source](https://nodesource.com/404)
