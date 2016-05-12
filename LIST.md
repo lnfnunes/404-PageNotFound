@@ -18,6 +18,7 @@
 - [CSS Ninjas](http://www.cssninjas.com/404)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
 - [Daily Motion Cloud](https://www.dmcloud.net/404/) *Automatically Redirects to Home
+- [DigitalOcean](https://www.digitalocean.com/404/)
 - [Disqus](https://disqus.com/by/a/) (change on each refresh)
 - [Dropbox](https://www.dropbox.com/404)
 - [eHarmony](http://www.eharmony.com/404/)
