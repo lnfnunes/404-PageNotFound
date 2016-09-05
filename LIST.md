@@ -35,6 +35,7 @@
 - [KidMondo](http://kidmondo.com/404)
 - [Klaus](http://www.klaus.dk/404040404040404)
 - [Lego](http://www.lego.com/404notfound)
+- [Luke Deen Taylor](http://controversial.io/404)
 - [Magnt](http://www.magnt.com/404/)
 - [Mail Chimp](http://mailchimp.com/404/)
 - [Mailgun](http://www.mailgun.com/404)
