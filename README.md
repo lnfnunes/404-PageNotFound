@@ -34,7 +34,7 @@ If you are tired of all that same boring 404 pages, [read the guideline and add 
 
 ## Thanks to...
 * [Luís Felipe](https://github.com/luisfmsouza) for supporting this idea =)
-* [Thiago Chagas](https://github.com/thiagochagas) for sharing "Node Source 404" at first and inspiring me!
+* [Thiago Chagas](https://github.com/thiagochagas) for sharing the ["Node Source 404"](https://nodesource.com/404) at first and inspiring me!
 
 ## License
 The MIT License (MIT)
