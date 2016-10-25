@@ -1,1 +1,0 @@
-script: "specs/phantomjs.runner.sh specs/spec_runner.html"
