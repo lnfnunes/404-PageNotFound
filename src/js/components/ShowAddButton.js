@@ -13,7 +13,7 @@ var ShowAddButton = React.createClass({
       buttonText = 'Cancel';
     } else {
       classString = 'btn btn-success btn-block';
-      buttonText = 'Create New Item';
+      buttonText = 'Add new 404 page';
     }
 
     return (

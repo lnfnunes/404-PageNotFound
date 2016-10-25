@@ -50,7 +50,7 @@ var FeedItem = React.createClass({
       <li key={this.props.id} className="list-group-item">
         <span className={positiveNegativeClassName}>{votes}</span>
         <h4>{this.props.title}</h4>
-        <span><a href={this.props.url} target="_blank"><span className="glyphicon glyphicon-link" aria-hidden="true"></span> Access</a></span>
+        <span><a href={this.props.url} target="_blank">{this.props.url}</a></span>
         <span className="pull-right">
           <button id="up" className="btn btn-sm btn-primary" onClick={this.voteUp}>
             <span className="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span>

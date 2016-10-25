@@ -21532,7 +21532,7 @@
 	      buttonText = 'Cancel';
 	    } else {
 	      classString = 'btn btn-success btn-block';
-	      buttonText = 'Create New Item';
+	      buttonText = 'Add new 404 page';
 	    }
 
 	    return React.createElement(
@@ -21707,8 +21707,7 @@
 	        React.createElement(
 	          'a',
 	          { href: this.props.url, target: '_blank' },
-	          React.createElement('span', { className: 'glyphicon glyphicon-link', 'aria-hidden': 'true' }),
-	          ' Access'
+	          this.props.url
 	        )
 	      ),
 	      React.createElement(
