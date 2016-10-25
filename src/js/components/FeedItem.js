@@ -19,8 +19,7 @@ var FeedItem = React.createClass({
   },
 
   voteUp: function() {
-    var votes = [];
-    votes = this.props.votes;
+    var votes = this.props.votes ? this.props.votes : [];
 
     if (_.indexOf(votes, accessKey) < 0) {
       votes.push(accessKey);
@@ -30,8 +29,7 @@ var FeedItem = React.createClass({
   },
 
   voteDown: function() {
-    var votes = [];
-    votes = this.props.votes;
+    var votes = this.props.votes ? this.props.votes : [];
 
     if (_.indexOf(votes, accessKey) >= 0) {
       votes = _.without(votes, accessKey)
@@ -42,13 +40,15 @@ var FeedItem = React.createClass({
 
   render: function() {
 
-    var positiveNegativeClassName = this.props.voteCount >= 0 ?
+    var votes = this.props.votes ? this.props.votes.length : 0;
+
+    var positiveNegativeClassName = votes >= 0 ?
                                     'badge badge-success' :
                                     'badge badge-danger';
 
     return (
       <li key={this.props.id} className="list-group-item">
-        <span className={positiveNegativeClassName}>{this.props.votes.length}</span>
+        <span className={positiveNegativeClassName}>{votes}</span>
         <h4>{this.props.title}</h4>
         <span><a href={this.props.url} target="_blank"><span className="glyphicon glyphicon-link" aria-hidden="true"></span> Access</a></span>
         <span className="pull-right">

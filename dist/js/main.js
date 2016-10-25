@@ -21453,7 +21453,9 @@
 	      });
 
 	      sorted = _.sortBy(items, function (item) {
-	        return -item.votes.length;
+	        if (item.votes) {
+	          return -item.votes.length;
+	        }
 	      });
 
 	      this.setState({
@@ -21661,8 +21663,7 @@
 	  },
 
 	  voteUp: function () {
-	    var votes = [];
-	    votes = this.props.votes;
+	    var votes = this.props.votes ? this.props.votes : [];
 
 	    if (_.indexOf(votes, accessKey) < 0) {
 	      votes.push(accessKey);
@@ -21672,8 +21673,7 @@
 	  },
 
 	  voteDown: function () {
-	    var votes = [];
-	    votes = this.props.votes;
+	    var votes = this.props.votes ? this.props.votes : [];
 
 	    if (_.indexOf(votes, accessKey) >= 0) {
 	      votes = _.without(votes, accessKey);
@@ -21684,7 +21684,9 @@
 
 	  render: function () {
 
-	    var positiveNegativeClassName = this.props.voteCount >= 0 ? 'badge badge-success' : 'badge badge-danger';
+	    var votes = this.props.votes ? this.props.votes.length : 0;
+
+	    var positiveNegativeClassName = votes >= 0 ? 'badge badge-success' : 'badge badge-danger';
 
 	    return React.createElement(
 	      'li',
@@ -21692,7 +21694,7 @@
 	      React.createElement(
 	        'span',
 	        { className: positiveNegativeClassName },
-	        this.props.votes.length
+	        votes
 	      ),
 	      React.createElement(
 	        'h4',
