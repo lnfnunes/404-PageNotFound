@@ -1,0 +1,19 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "amd": true
+  },
+  "globals": {
+    "swfobject": true,
+    "ActiveXObject": true
+  },
+  "rules": {
+    "no-fallthrough": false,
+    "yoda": false,
+    "no-shadow": false,
+    "no-new": false,
+    "no-extend-native": false
+  },
+
+}

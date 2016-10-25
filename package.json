@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack -p"
   },
-  "pre-commit" : [
+  "pre-commit": [
     "webpack"
   ],
   "author": "",
@@ -33,7 +33,13 @@
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "reactfire": "^0.6.0",
+    "underscore": "^1.8.3",
     "webpack": "^1.13.0",
     "webpack-stream": "^3.1.0"
+  },
+  "babel": {
+    "presets": [
+      "react"
+    ]
   }
 }

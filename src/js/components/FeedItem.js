@@ -1,6 +1,5 @@
-
-
 var React = require('react');
+var _ = require('underscore');
 var Fingerprint2 = require('fingerprintjs2');
 
 var accessKey;
@@ -10,25 +9,35 @@ new Fingerprint2().get(function(result, components){
 
 var FeedItem = React.createClass({
 
-  vote: function(newCount) {
+  vote: function(votes) {
     this.props.onVote({
       id: this.props.id,
       title: this.props.title,
       url: this.props.url,
-      voteCount: newCount
+      votes: votes
     });
   },
 
   voteUp: function() {
-    var count = parseInt(this.props.voteCount, 10);
-    var newCount = count + 1;
-    this.vote(newCount);
+    var votes = [];
+    votes = this.props.votes;
+
+    if (_.indexOf(votes, accessKey) < 0) {
+      votes.push(accessKey);
+    }
+
+    this.vote(votes);
   },
 
   voteDown: function() {
-    var count = parseInt(this.props.voteCount, 10);
-    var newCount = count - 1;
-    this.vote(newCount);
+    var votes = [];
+    votes = this.props.votes;
+
+    if (_.indexOf(votes, accessKey) >= 0) {
+      votes = _.without(votes, accessKey)
+    }
+
+    this.vote(votes);
   },
 
   render: function() {
@@ -39,7 +48,7 @@ var FeedItem = React.createClass({
 
     return (
       <li key={this.props.id} className="list-group-item">
-        <span className={positiveNegativeClassName}>{this.props.voteCount}</span>
+        <span className={positiveNegativeClassName}>{this.props.votes.length}</span>
         <h4>{this.props.title}</h4>
         <span><a href={this.props.url} target="_blank"><span className="glyphicon glyphicon-link" aria-hidden="true"></span> Access</a></span>
         <span className="pull-right">

@@ -21,7 +21,7 @@ var Feed = React.createClass({
       });
 
       sorted = _.sortBy(items, function(item) {
-        return -item.voteCount;
+        return -item.votes.length;
       });
 
       this.setState({

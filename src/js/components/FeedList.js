@@ -1,5 +1,3 @@
-
-
 var React = require('react'),
     FeedItem = require('./FeedItem');
 
@@ -12,7 +10,7 @@ var FeedList = React.createClass({
                        id={item.id}
                        title={item.title}
                        url={item.url}
-                       voteCount={item.voteCount}
+                       votes={item.votes}
                        onVote={this.props.onVote} />
     }.bind(this));
 

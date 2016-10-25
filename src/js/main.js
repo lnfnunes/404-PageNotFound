@@ -1,4 +1,3 @@
-
 var React = require('react'),
     ReactDOM = require('react-dom'),
     Feed = require('./components/Feed');
