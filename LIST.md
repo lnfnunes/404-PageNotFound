@@ -48,6 +48,7 @@
 - [NULL on error](https://nullonerror.org/404)
 - [OmDesign](https://omdesign.cz/fab404)
 - [Orange Coat](https://www.orangecoat.com/dear-happy-internet-traveler)
+- [Origin](https://www.origin.com/404)
 - [Partido dos Trabalhadores (PT)](http://www.pt.org.br/404)
 - [QuintoAndar](http://www.quintoandar.com.br/404)
 - [Retard Zone](http://retardzone.com/404)
