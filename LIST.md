@@ -62,6 +62,7 @@
 - [Tinsanity](http://www.tinsanity.net/404.shtml)
 - [Topcoder](https://www.topcoder.com/404)
 - [Tripomatic](http://www.tripomatic.com/404)
+- [Udemy](https://www.udemy.com/404/)
 - [Urban Outfitters](http://www.urbanoutfitters.com/urban/html/404.html)
 - [Viadeo](http://www.viadeo.com/404)
 - [Walk with You](http://www.walkwithyou.me/404)
