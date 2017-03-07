@@ -1,18 +1,31 @@
+const React    = require('react');
+const Firebase = require('firebase');
+const _        = require('lodash');
 
-var React         = require('react');
-var ShowAddButton = require('./ShowAddButton');
-var FeedForm      = require('./FeedForm');
-var FeedList      = require('./FeedList');
-var _             = require('lodash');
-var Firebase      = require('firebase');
+const Header   = require('./Header');
+const FeedList = require('./FeedList');
+
+const FB_PATH = 'https://404-pagenotfound.firebaseio.com/';
+const FB_REF = 'feed';
 
 var Feed = React.createClass({
+  componentWillMount: function() {
+    this.setState({
+      items: [],
+      isLoading: false,
+    });
+  },
+
+  componentDidMount: function() {
+    this.setState({
+      isLoading: true,
+    }, this.loadData);
+  },
 
   loadData: function() {
-    var ref = new Firebase('https://404-pagenotfound.firebaseio.com/feed');
+    var ref = new Firebase(`${FB_PATH}${FB_REF}`);
     ref.on('value', function(snap) {
       var items = [];
-      var sorted = [];
 
       snap.forEach(function(itemSnap) {
         var item = itemSnap.val();
@@ -20,21 +33,11 @@ var Feed = React.createClass({
         items.push(item);
       });
 
-      sorted = _.sortBy(items, function(item) {
-        if (item.votes) {
-          return -item.votes.length;
-        }
-      });
-
       this.setState({
-        items: sorted
+        items: items,
+        isLoading: false,
       });
-
     }.bind(this));
-  },
-
-  componentDidMount: function() {
-    this.loadData();
   },
 
   getInitialState: function() {
@@ -44,41 +47,23 @@ var Feed = React.createClass({
     }
   },
 
-  onToggleForm: function() {
-    this.setState({
-      formDisplayed: !this.state.formDisplayed
-    });
-  },
-
-  onNewItem: function(newItem) {
-    var ref = new Firebase('https://404-pagenotfound.firebaseio.com/feed');
-    ref.push(newItem);
-  },
-
   onVote: function(item) {
-    var ref = new Firebase('https://404-pagenotfound.firebaseio.com/feed').child(item.id);
+    var ref = new Firebase(`${FB_PATH}${FB_REF}`).child(item.id);
     ref.update(item);
   },
 
   render: function() {
     return (
       <div>
-
-        <div className="container">
-          <ShowAddButton displayed={this.state.formDisplayed} onToggleForm={this.onToggleForm} />
-        </div>
-
-        <FeedForm displayed={this.state.formDisplayed} onNewItem={this.onNewItem} />
-
-        <br />
-        <br />
-
-        <FeedList items={this.state.items} onVote={this.onVote} />
-
+        <Header />
+        <FeedList
+          items={this.state.items}
+          onVote={this.onVote}
+          isLoading={this.state.isLoading}
+        />
       </div>
     );
   }
-
 });
 
 module.exports = Feed;

@@ -23,7 +23,7 @@
     "babel-core": "^6.7.6",
     "babel-loader": "^6.2.4",
     "babel-preset-react": "^6.5.0",
-    "firebase": "^3.7.0",
+    "firebase": "^2.4.2",
     "firebase-admin": "^4.1.2",
     "gulp": "^3.9.1",
     "gulp-connect": "^3.2.2",
