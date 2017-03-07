@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "webpack": "webpack -p"
+    "webpack": "webpack -p",
+    "updateDB": "node updateData.js"
   },
   "pre-commit": [
     "webpack"
@@ -30,7 +31,7 @@
     "gulp-open": "^1.0.0",
     "gulp-react": "^3.1.0",
     "imagemin-pngquant": "^4.2.2",
-    "lodash": "^4.11.1",
+    "lodash": "^4.17.4",
     "pre-commit": "^1.1.2",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
