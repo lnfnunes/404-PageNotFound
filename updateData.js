@@ -78,10 +78,10 @@ function strLinkToJsonAdapter(link) {
 function setLinkVotesAdapter(arr) {
   return arr.map(link => {
     const linkOnDB = _.find(arrFbLinks, {title: link.title});
-    const votes = linkOnDB ? linkOnDB.voteCount : 0;
+    const votes = linkOnDB ? linkOnDB.votes : [];
 
     return Object.assign(link, {
-      voteCount: votes,
+      votes: votes,
     });
   });
 }
@@ -92,7 +92,7 @@ function syncAllLinks(arr) {
   syncPromise(arr, addLink);
 }
 function addLink(link) {
-  console.log(`Adding ${link.title} [${link.voteCount}]...`);
+  console.log(`Adding ${link.title} [${link.votes}]...`);
 
   return new Promise((resolve, reject) => {
     ref.push().set(link, err =>
