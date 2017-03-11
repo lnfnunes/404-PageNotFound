@@ -4,11 +4,18 @@ module.exports = {
   ],
   module: {
     loaders: [
-      { test: /\.jsx?$/, exclude: /node_modules/, loader: 'babel-loader' },
+      {
+        test: /\.jsx?$/,
+        exclude: /node_modules/,
+        loader: 'babel-loader',
+        query: {
+          presets: ['es2015', 'react']
+        }
+      },
     ],
   },
   output: {
-    filename: 'main.js',
     path: __dirname + '/dist/js',
+    filename: 'main.js',
   },
 };

@@ -1,6 +1,5 @@
 const React    = require('react');
 const Firebase = require('firebase');
-const _        = require('lodash');
 
 const Header   = require('./Header');
 const FeedList = require('./FeedList');
