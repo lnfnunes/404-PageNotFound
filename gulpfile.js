@@ -28,7 +28,7 @@ gulp.task('open', function(){
   var options = {
     url: 'http://localhost:' + port,
   };
-  gulp.src('./index.html')
+  gulp.src('./dist/index.html')
   .pipe(open('', options));
 });
 
