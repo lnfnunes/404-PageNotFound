@@ -1,0 +1,4 @@
+.DS_Store
+node_modules
+serviceAccountKey.json
+npm-debug*.*

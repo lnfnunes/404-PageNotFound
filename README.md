@@ -6,6 +6,8 @@
 [![Build Status](https://travis-ci.org/lnfnunes/404-PageNotFound.svg)](https://travis-ci.org/lnfnunes/404-PageNotFound)
 
 > An inspiration gallery for those boring 404 pages.
+>
+> Visit the [gallery wall](https://404-pagenotfound.firebaseapp.com/) and vote on your preferred one!
 
 ## The problem
 
