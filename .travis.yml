@@ -1,4 +1,4 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot LIST.md --allow-ssl --allow 403,404 --white-list origin.com
+script: awesome_bot LIST.md --allow-ssl --allow 403,404,301 --white-list origin.com
