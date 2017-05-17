@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://lnfnunes.com.br/img/logo404.png" alt="Project 404 Not Found" />
+  <img src="http://lnfnunes.com.br/img/logo404.png" alt="404 Page Not Found" />
 </p>
 
 ## Full list
@@ -11,7 +11,7 @@
 - [Bitly](https://bitly.com/a/404)
 - [Blizzard](http://us.blizzard.com/en-us/not-found.html)
 - [Bluegg](http://bluegg.co.uk/404)
-- [Cartoon Network](http://cn3.cartoonnetwork.com.ar/error404.html)
+- [Cartoon Network](http://www.cartoonnetwork.com.ar/404.html)
 - [Coca Company](http://www.coca-colacompany.com/404)
 - [Code42](http://www.code42.com/Error/)
 - [CodeSchool](http://codeschool.com/404)
