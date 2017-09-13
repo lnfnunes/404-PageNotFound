@@ -31,7 +31,7 @@
 - [Huml](https://www.huml.org/404.shtml)
 - [Iconfinder](https://www.iconfinder.com/404)
 - [Imgur](http://imgur.com/404)
-- [Klaus](http://www.klaus.dk/404040404040404)
+- [Klaus](https://www.klaus.dk/404/)
 - [Lego](https://www.lego.com/404notfound)
 - [Luke Deen Taylor](https://controversial.io/404/)
 - [Magnt](http://www.magnt.com/404)
