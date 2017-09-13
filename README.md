@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="http://lnfnunes.com.br/img/logo404.png" alt="Project 404 Not Found" />
+  <img src="https://404-pagenotfound.firebaseapp.com/img/logo.png" alt="Project 404 Not Found" />
 </p>
+
 
 # 404 Page Not Found
 [![Build Status](https://travis-ci.org/lnfnunes/404-PageNotFound.svg)](https://travis-ci.org/lnfnunes/404-PageNotFound)
