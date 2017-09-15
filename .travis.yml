@@ -1,4 +1,4 @@
 language: ruby
 rvm: 2.2
-before_script: gem install awesome_bot
-script: awesome_bot LIST.md --allow-ssl --allow 403,404,301 --allow-timeout --set-timeout 5 --white-list origin.com
+cache: bundler
+script: bundle exec awesome_bot LIST.md --allow-ssl --allow 403,404,301 --allow-timeout --set-timeout 5 --white-list origin.com
