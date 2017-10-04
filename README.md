@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://404-pagenotfound.firebaseapp.com/img/logo.png" alt="Project 404 Not Found" />
+﻿<p align="center">
+  <img src="https://404-pagenotfound.firebaseapp.com/img/logo.png" alt="Logo of project Page 404 Not Found" />
 </p>
 
 
