@@ -35,6 +35,7 @@
 - [Iconfinder](https://www.iconfinder.com/404)
 - [Imgur](http://imgur.com/404)
 - [Klaus](https://www.klaus.dk/404/)
+- [Kualo](https://www.kualo.co.uk/404)
 - [Lego](https://www.lego.com/404notfound)
 - [Limpfish](http://www.limpfish.com/404)
 - [Luke Deen Taylor](https://controversial.io/404/)
