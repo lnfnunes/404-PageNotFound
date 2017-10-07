@@ -6,6 +6,7 @@
 
 - [Acme](http://www.acme.com/missing.html)
 - [AcuvueProfessional](https://www.acuvueprofessional.com/404)
+- [Agens](https://www.agens.no/404)
 - [AirBnb](https://www.airbnb.com.br/pagenotfound)
 - [Amazon](https://www.amazon.com/404)
 - [AtSpace](http://scar.atspace.org/404.html)
