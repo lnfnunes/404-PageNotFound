@@ -53,6 +53,7 @@
 - [Nintendo](https://www.nintendo.co.uk/404.html)
 - [Node Source](https://nodesource.com/404)
 - [NULL on error](https://nullonerror.org/404)
+- [Oi Warren](https://oiwarren.com/app/#/404!/404)
 - [OmDesign](https://omdesign.cz/fab404)
 - [Orange Coat](https://www.orangecoat.com/dear-happy-internet-traveler)
 - [Origin](https://www.origin.com/404)
