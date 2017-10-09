@@ -27,6 +27,7 @@
 - [Dropbox](https://www.dropbox.com/404)
 - [eHarmony](http://www.eharmony.com/404/)
 - [EyeEm](https://www.eyeem.com/u/404.html)
+- [Figma](https://www.figma.com/404)
 - [fléava](https://fleava.com/404)
 - [Giphy](https://giphy.com/404)
 - [GitHub](https://github.com/404)
