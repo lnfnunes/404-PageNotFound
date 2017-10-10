@@ -73,7 +73,7 @@
 - [Tinsanity](http://www.tinsanity.net/404.shtml)
 - [Topcoder](https://www.topcoder.com/404)
 - [Urban Outfitters](https://www.urbanoutfitters.com/urban/html/404.html)
-- [Viadeo](http://www.viadeo.com/404)
+- [Viadeo](https://fr.viadeo.com/pt/signup/404)
 - [Walk with You](http://www.walkwithyou.me/404)
 - [We Can't Stop Thinking](http://wcst.com/404)
 - [Wufoo](http://www.wufoo.com/404/)
