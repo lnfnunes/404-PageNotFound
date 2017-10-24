@@ -63,6 +63,7 @@
 - [Partido dos Trabalhadores (PT)](http://www.pt.org.br/404)
 - [Playstation](https://www.playstation.com/en-ae/404/)
 - [QuintoAndar](http://www.quintoandar.com.br/404)
+- [Raspberry Pi](https://www.raspberrypi.org/404)
 - [Retard Zone](http://retardzone.com/404)
 - [Slack](https://slack.com/404)
 - [Spore](http://www.spore.com/404)
