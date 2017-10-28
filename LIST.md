@@ -14,6 +14,7 @@
 - [Cartoon Network](http://cn3.cartoonnetwork.com.ar/error404.html)
 - [Coca Company](http://www.coca-colacompany.com/404/)
 - [Code42](http://www.code42.com/Error/)
+- [CloudSigma] (https://www.cloudsigma.com/404-error/)
 - [CodeSchool](http://codeschool.com/404)
 - [CSS Ninjas](http://www.cssninjas.com/404)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
