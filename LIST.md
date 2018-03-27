@@ -28,6 +28,7 @@
 - [DogStudio](https://www.dogstudio.co/404/)
 - [Dribble](https://dribbble.com/this-page-must-not-exist)
 - [Dropbox](https://www.dropbox.com/404)
+- [E-goi](https://www.e-goi.com/404)
 - [Easynvest](https://www.easynvest.com.br/erro-404)
 - [eHarmony](http://www.eharmony.com/404/)
 - [EyeEm](https://www.eyeem.com/u/404.html)
