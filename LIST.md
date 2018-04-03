@@ -23,6 +23,7 @@
 - [CodeSchool](http://codeschool.com/404)
 - [CSS Ninjas](http://www.cssninjas.com/404)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
+- [Dev.to](https://dev.to/404)
 - [DigitalOcean](https://www.digitalocean.com/404/)
 - [Disqus](https://disqus.com/by/a/) (change on each refresh)
 - [DogStudio](https://www.dogstudio.co/404/)
