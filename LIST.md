@@ -55,6 +55,7 @@
 - [Marvel](http://marvel.com/404) (change on each refresh)
 - [MarvelApp](https://marvelapp.com/404)
 - [Mashable](http://mashable.com/404)
+- [Medium](https://medium.com/404)
 - [Mike Kus](http://mikekus.com/404)
 - [Mozilla](https://www.mozilla.org/en-US/404)
 - [Muambator](https://muambator.com.br/404/)
