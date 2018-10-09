@@ -73,6 +73,7 @@
 - [Orange Coat](https://www.orangecoat.com/dear-happy-internet-traveler)
 - [Origin](https://www.origin.com/404)
 - [Partido dos Trabalhadores (PT)](http://www.pt.org.br/404)
+- [Pixar](https://www.pixar.com/404)
 - [Playstation](https://www.playstation.com/en-ae/404/)
 - [QuintoAndar](http://www.quintoandar.com.br/404)
 - [Raspberry Pi](https://www.raspberrypi.org/404)
