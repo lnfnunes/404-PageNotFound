@@ -1,0 +1,27 @@
+{
+  "name": "404-pagenotfound",
+  "version": "1.0.0",
+  "description": "An inspiration gallery for those boring 404 pages.",
+  "main": "checkorder.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnfnunes/404-PageNotFound.git"
+  },
+  "keywords": [
+    "404",
+    "JavaScript",
+    "Ruby"
+  ],
+  "author": "lnfnunes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lnfnunes/404-PageNotFound/issues"
+  },
+  "homepage": "https://github.com/lnfnunes/404-PageNotFound#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
