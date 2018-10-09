@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "An inspiration gallery for those boring 404 pages.",
   "main": "checkorder.js",
+  "engines": {
+    "node": ">=8"
+  },
   "scripts": {
     "test": "jest"
   },
@@ -15,7 +18,11 @@
     "JavaScript",
     "Ruby"
   ],
-  "author": "lnfnunes",
+  "author": {
+    "name": "Leandro Nunes",
+    "email": "dr1design@gmail.com",
+    "url": "https://lnfnunes.com.br"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lnfnunes/404-PageNotFound/issues"
