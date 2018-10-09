@@ -41,6 +41,7 @@
 - [Figma](https://www.figma.com/404)
 - [Giphy](https://giphy.com/404)
 - [GitHub](https://github.com/404)
+- [GitLab](https://about.gitlab.com/404)
 - [Golf Porcelaine](http://www.golf-porcelaine.com/404notfound)
 - [Google](https://www.google.com/404)
 - [Hakin.se](http://lab.hakim.se/404/)
