@@ -45,6 +45,7 @@
 - [Kualo](https://www.kualo.co.uk/404)
 - [Lego](https://www.lego.com/404notfound)
 - [Limpfish](http://www.limpfish.com/404)
+- [LinkedIn](https://www.linkedin.com/404)
 - [Luke Deen Taylor](https://controversial.io/404/)
 - [Magnt](http://www.magnt.com/404)
 - [Mail Chimp](https://mailchimp.com/404/)
