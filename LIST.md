@@ -21,6 +21,7 @@
 - [Coca Company](http://www.coca-colacompany.com/404)
 - [Code42](https://www.code42.com/404)
 - [CodeSchool](http://codeschool.com/404)
+- [Coding Games](https://www.codingame.com/404)
 - [CSS Ninjas](http://www.cssninjas.com/404)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
 - [Dev.to](https://dev.to/404)
