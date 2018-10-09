@@ -36,6 +36,7 @@
 - [Figma](https://www.figma.com/404)
 - [Giphy](https://giphy.com/404)
 - [GitHub](https://github.com/404)
+- [Google](https://google.com/404)
 - [Golf Porcelaine](http://www.golf-porcelaine.com/404notfound)
 - [Hakin.se](http://lab.hakim.se/404/)
 - [Home Star Runners](http://www.homestarrunner.com/random_garbage_text)
