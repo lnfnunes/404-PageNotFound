@@ -17,6 +17,7 @@
 - [Bluegg](http://bluegg.co.uk/404)
 - [Cartoon Network](http://www.cartoonnetwork.com.ar/404)
 - [Cloud Sigma](https://www.cloudsigma.com/404-error/)
+- [codacy](https://www.codacy.com/404)
 - [Coca Company](http://www.coca-colacompany.com/404)
 - [Code42](https://www.code42.com/404)
 - [CodeSchool](http://codeschool.com/404)
