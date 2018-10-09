@@ -48,3 +48,5 @@ const checkIfAllFilesAreOrdered = files =>
   })
 
 checkIfAllFilesAreOrdered(files)
+
+module.exports = checkIfAllFilesAreOrdered;

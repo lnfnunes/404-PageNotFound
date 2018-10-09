@@ -15,9 +15,11 @@ describe('checkorder', () => {
     });
 
     it('should identify unordered list links as unordered', () => {
-        const result = checkOrder(['./test/UNORDERED.md']);
+        spyOn(console, 'log');
+        spyOn(console, 'error');
+        checkOrder(['./test/UNORDERED.md']);
+        expect(console.log).toHaveBeenCalled();
+        expect(console.error).toHaveBeenCalled();
         expect(process.exit).toHaveBeenCalledWith(1);
-        expect(result).toBeFalsy();
-
     })
 })
