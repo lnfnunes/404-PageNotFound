@@ -23,5 +23,8 @@
   "homepage": "https://github.com/lnfnunes/404-PageNotFound#readme",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
   }
 }
