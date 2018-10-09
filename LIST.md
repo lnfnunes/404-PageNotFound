@@ -28,6 +28,7 @@
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
 - [Dev.to](https://dev.to/404)
 - [DigitalOcean](https://www.digitalocean.com/404/)
+- [Discord](https://discordapp.com/404)
 - [Disqus](https://disqus.com/by/a/) (change on each refresh)
 - [DogStudio](https://www.dogstudio.co/404/)
 - [Dribble](https://dribbble.com/this-page-must-not-exist)
