@@ -36,6 +36,7 @@
 - [Giphy](https://giphy.com/404)
 - [GitHub](https://github.com/404)
 - [Golf Porcelaine](http://www.golf-porcelaine.com/404notfound)
+- [Google](https://www.google.com/404)
 - [Hakin.se](http://lab.hakim.se/404/)
 - [Home Star Runners](http://www.homestarrunner.com/random_garbage_text)
 - [Huml](https://www.huml.org/404.shtml)
@@ -87,4 +88,3 @@
 - [WeDeploy](https://console.wedeploy.com/404)
 - [WillianJusten](https://willianjusten.com.br/404) (change on each refresh)
 - [Wufoo](https://www.wufoo.com/404/)
-- [Google](https://www.google.com/404)
