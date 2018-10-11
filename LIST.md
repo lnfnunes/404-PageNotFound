@@ -13,6 +13,7 @@
 - [Amazon](https://www.amazon.com/404)
 - [Asana](https://asana.com/404)
 - [AtSpace](http://scar.atspace.org/404.html)
+- [Bilibili](https://www.bilibili.com/404)
 - [Bitly](https://bitly.com/a/404)
 - [Blizzard](http://us.blizzard.com/en-us/not-found.html)
 - [Bloomberg](https://www.bloomberg.com/404)
