@@ -4,4 +4,4 @@ cache: bundler
 script:
   - set -e
   - node checkorder.js LIST.md
-  - bundle exec awesome_bot LIST.md --allow-ssl --allow 403,404,301,302 --allow-timeout --set-timeout 5 --white-list origin.com,16personalities.com,wufoo.com
+  - bundle exec awesome_bot LIST.md --allow-ssl --allow 403,404,301,302 --allow-timeout --set-timeout 5 --white-list origin.com,16personalities.com,wufoo.com,bloomberg.com
