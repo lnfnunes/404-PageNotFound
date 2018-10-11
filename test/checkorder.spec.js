@@ -9,7 +9,7 @@ describe('checkorder', () => {
         jest.restoreAllMocks();
     });
 
-    it('should idenitfy ordered list links as ordered', () => {
+    it('should identify ordered list links as ordered', () => {
         const result = checkOrder(['./test/ORDERED.md']);
         expect(result).toBeTruthy();
     });
