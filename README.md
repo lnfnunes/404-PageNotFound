@@ -43,4 +43,4 @@ If you are tired of all that same boring 404 pages, [read the guideline and add 
 ## License
 The MIT License (MIT)
 
-[Copyright (c) 2016 Leandro Nunes](LICENSE)
+[Copyright (c) 2018 Leandro Nunes](LICENSE)
