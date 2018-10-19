@@ -29,7 +29,6 @@ If you're still not convinced, check out these amazing examples:
 - [Lego](http://www.lego.com/404notfound)
 - [Node Source](https://nodesource.com/404)
 - [Slack](https://slack.com/404)
-- [Spring](https://spring.io/404)
 - [Survey Legend](https://www.surveylegend.com/404)
 
 [Check the full list](LIST.md)
