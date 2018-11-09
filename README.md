@@ -4,7 +4,7 @@
 
 
 # 404 Page Not Found
-[![Build Status](https://travis-ci.org/lnfnunes/404-PageNotFound.svg)](https://travis-ci.org/lnfnunes/404-PageNotFound)
+[![Build Status](https://travis-ci.org/lnfnunes/404-PageNotFound.svg)](https://travis-ci.org/lnfnunes/404-PageNotFound) [![Greenkeeper badge](https://badges.greenkeeper.io/lnfnunes/404-PageNotFound.svg)](https://greenkeeper.io/)
 
 > An inspiration gallery for those boring 404 pages.
 >
