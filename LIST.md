@@ -87,7 +87,6 @@
 - [Spore](http://www.spore.com/404)
 - [Spring](https://spring.io/404)
 - [Stack Overflow](http://stackoverflow.com/404)
-- [Stamplay](https://stamplay.com/404)
 - [Star Wars](http://br.starwars.com/404)
 - [Starbucks](https://www.starbucks.com/static/error/index.html)
 - [Survey Legend](https://www.surveylegend.com/404)
