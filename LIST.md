@@ -28,6 +28,7 @@
 - [Coca Company](http://www.coca-colacompany.com/404)
 - [Codacy](https://www.codacy.com/404)
 - [Code42](https://www.code42.com/404)
+- [Codeacademy](https://www.codecademy.com/profiles/404page)
 - [Codemoji](https://codemoji.org/#/404)
 - [CodeNation](https://www.codenation.com.br/404)
 - [CodeSchool](http://codeschool.com/404)
