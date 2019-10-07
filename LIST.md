@@ -20,6 +20,7 @@
 - [Blizzard](https://www.blizzard.com/en-us/404)
 - [Bloomberg](https://www.bloomberg.com/404)
 - [Bluegg](http://bluegg.co.uk/404)
+- [Canva](https://www.canva.com/404)
 - [Cartoon Network](http://www.cartoonnetwork.com.ar/404)
 - [Cloud Sigma](https://www.cloudsigma.com/404-error/)
 - [Coca Company](http://www.coca-colacompany.com/404)
