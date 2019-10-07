@@ -1,6 +1,6 @@
 # Contributing
 
-If you are tired of all that same boring 404 pages, add an inspirational link to help spread the ideia of having this experience into backlogs.
+If you are tired of all that same boring 404 pages, add an inspirational link to help spread the idea of having this experience into backlogs.
 Your contributions are always welcome!
 
 ## Guidelines

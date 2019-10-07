@@ -5,6 +5,7 @@
 ## Full list
 
 - [16Personalities](https://www.16personalities.com/404)
+- [9GAG](https://9gag.com/404)
 - [Acme](http://www.acme.com/missing.html)
 - [AcuvueProfessional](https://www.acuvueprofessional.com/404)
 - [Adobe](https://www.adobe.com/404)
