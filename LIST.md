@@ -17,7 +17,7 @@
 - [Bernie Sanders](https://berniesanders.com/404/)
 - [Bilibili](https://www.bilibili.com/404)
 - [Bitly](https://bitly.com/a/404)
-- [Blizzard](http://us.blizzard.com/en-us/not-found.html)
+- [Blizzard](https://www.blizzard.com/en-us/404)
 - [Bloomberg](https://www.bloomberg.com/404)
 - [Bluegg](http://bluegg.co.uk/404)
 - [Cartoon Network](http://www.cartoonnetwork.com.ar/404)
