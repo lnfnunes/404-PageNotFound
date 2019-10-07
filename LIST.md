@@ -34,6 +34,7 @@
 - [Coding Games](https://www.codingame.com/404)
 - [CSS Ninjas](http://www.cssninjas.com/404)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
+- [DC Comics](https://www.dccomics.com/404)
 - [Desmos](https://www.desmos.com/404)
 - [Dev.to](https://dev.to/404)
 - [DigitalOcean](https://www.digitalocean.com/404/)
