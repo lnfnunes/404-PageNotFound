@@ -48,6 +48,7 @@
 - [EyeEm](https://www.eyeem.com/u/404.html)
 - [Figma](https://www.figma.com/404)
 - [Financial Times](https://www.ft.com/404)
+- [Gamespot](https://www.gamespot.com/not-found/)
 - [Giphy](https://giphy.com/404)
 - [GitHub](https://github.com/404)
 - [GitLab](https://about.gitlab.com/404)
