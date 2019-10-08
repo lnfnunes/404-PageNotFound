@@ -22,7 +22,7 @@ All of them create lots of **great** lines of code, but neither one create a goo
 If you're still not convinced, check out these amazing examples:
 
 - [Node Source](https://nodesource.com/404)
-- [Blizzard](http://us.blizzard.com/en-us/not-found.html)
+- [Blizzard](https://www.blizzard.com/en-us/404)
 - [Survey Legend](https://www.surveylegend.com/404)
 - [Lego](http://www.lego.com/404notfound)
 - [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
