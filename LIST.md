@@ -14,6 +14,7 @@
 - [Alligator.io](https://alligator.io/404)
 - [Amazon](https://www.amazon.com/404)
 - [Android](https://www.android.com/404/)
+- [Apple Official Site](https://www.apple.com/404)
 - [Asana](https://asana.com/404)
 - [AtSpace](http://scar.atspace.org/404.html)
 - [Bernie Sanders](https://berniesanders.com/404/)
