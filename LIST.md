@@ -81,6 +81,7 @@
 - [Mashable](http://mashable.com/404)
 - [Medium](https://medium.com/404)
 - [Mike Kus](http://mikekus.com/404)
+- [Minecraft](https://www.minecraft.net/en-us/404)
 - [Mozilla](https://www.mozilla.org/en-US/404)
 - [Muambator](https://muambator.com.br/404/)
 - [NASA](https://www.nasa.gov/404/)
