@@ -117,6 +117,7 @@
 - [Tinsanity](http://www.tinsanity.net/404.shtml)
 - [Topcoder](https://www.topcoder.com/404)
 - [Travis CI](https://travis-ci.org/404)
+- [Uber](https://www.uber.com/404)
 - [Ueno](https://ueno.co/404)
 - [Urban Outfitters](https://www.urbanoutfitters.com/urban/html/404.html)
 - [Vérios](https://verios.com.br/404)
