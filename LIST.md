@@ -119,6 +119,7 @@
 - [Starbucks](https://www.starbucks.com/static/error/index.html)
 - [Survey Legend](https://www.surveylegend.com/404)
 - [Sygic Travel](https://travel.sygic.com/404)
+- [Team Coco](https://teamcoco.com/404)
 - [The Hustle](https://thehustle.co/404)
 - [Timbuk2](https://www.timbuk2.com/404)
 - [Tinsanity](http://www.tinsanity.net/404.shtml)
