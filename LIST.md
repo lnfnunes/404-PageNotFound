@@ -64,6 +64,7 @@
 - [Golf Porcelaine](http://www.golf-porcelaine.com/404notfound)
 - [Google](https://www.google.com/404)
 - [Hakin.se](http://lab.hakim.se/404/)
+- [Hatched London](https://hatchedlondon.com/404)
 - [Home Star Runners](http://www.homestarrunner.com/random_garbage_text)
 - [Huml](https://www.huml.org/404.shtml)
 - [IBM](https://www.ibm.com/404)
