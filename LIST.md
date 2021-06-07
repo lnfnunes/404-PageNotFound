@@ -112,6 +112,7 @@
 - [Red Bull](https://www.redbull.com/404)
 - [Red Square](https://www.redsquareagency.com/404)
 - [Retard Zone](http://retardzone.com/404)
+- [Ritlana](http://www.ritlana.com/404)
 - [Slack](https://slack.com/404)
 - [Spore](http://www.spore.com/404)
 - [Spotify](https://www.spotify.com/my-en/404/)
