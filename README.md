@@ -4,7 +4,8 @@
 
 
 # 404 Page Not Found
-![Build Status](https://github.com/lnfnunes/404-PageNotFound/actions/workflows/validate.yml/badge.svg?branch=master) [![Snyk badge](https://snyk.io/test/github/lnfnunes/404-PageNotFound/badge.svg)](https://greenkeeper.io/)
+[![Status](https://github.com/lnfnunes/404-PageNotFound/actions/workflows/validate.yml/badge.svg)](https://github.com/lnfnunes/404-PageNotFound/actions/workflows/validate.yml)
+[![Snyk badge](https://snyk.io/test/github/lnfnunes/404-PageNotFound/badge.svg)](https://snyk.io/test/github/lnfnunes/404-PageNotFound)
 
 > An inspiration gallery for those boring 404 pages.
 >
