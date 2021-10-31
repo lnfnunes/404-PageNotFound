@@ -1,7 +1,0 @@
-language: ruby
-rvm: 2.2
-cache: bundler
-script:
-  - set -e
-  - node checkorder.js LIST.md
-  - bundle exec awesome_bot LIST.md --allow-ssl --allow 301,302,307,403,404,410 --allow-timeout --set-timeout 5 --white-list origin.com,16personalities.com,wufoo.com
