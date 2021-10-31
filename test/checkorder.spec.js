@@ -3,6 +3,8 @@ const checkOrder = require('../checkorder');
 describe('checkorder', () => {
     beforeEach(() => {
         jest.spyOn(process, 'exit').mockImplementationOnce(() => true);
+        jest.spyOn(console, 'log').mockImplementation();
+        jest.spyOn(console, 'error').mockImplementation();
     });
 
     afterEach(() => {
@@ -15,8 +17,6 @@ describe('checkorder', () => {
     });
 
     it('should identify unordered list links as unordered', () => {
-        spyOn(console, 'log');
-        spyOn(console, 'error');
         checkOrder(['./test/UNORDERED.md']);
         expect(console.log).toHaveBeenCalled();
         expect(console.error).toHaveBeenCalled();
