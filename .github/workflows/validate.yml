@@ -1,8 +1,13 @@
+name: Status
+
 on:
   push:
-    branches: [ $default-branch ]
+    branches: [ '*' ]
   pull_request:
     branches: [ '*' ]
+  schedule:
+    # Montly (1st day)
+    - cron:  '0 0 1 * *'
 
 jobs:
   validate:
