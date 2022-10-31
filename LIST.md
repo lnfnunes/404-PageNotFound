@@ -104,6 +104,7 @@
 - [Orange Coat](https://www.orangecoat.com/dear-happy-internet-traveler)
 - [Origin](https://www.origin.com/404)
 - [Overreacted](https://overreacted.io/404)
+- [Overwatch](https://overwatch.blizzard.com/en-us/404)
 - [Partido dos Trabalhadores (PT)](https://pt.org.br/404)
 - [Pixar](https://www.pixar.com/404)
 - [Playstation](https://www.playstation.com/en-ae/404/)

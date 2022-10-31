@@ -24,7 +24,7 @@ jobs:
         with:
           ruby-version: 2.6.x
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -39,4 +39,4 @@ jobs:
           npm test
           npm run check
       - name: Check links status
-        run: bundle exec awesome_bot LIST.md --allow-redirect --allow-ssl --allow 301,302,307,403,404,410 --allow-timeout --set-timeout 5 --white-list origin.com,16personalities.com,wufoo.com
+        run: bundle exec awesome_bot LIST.md --allow-redirect --allow-ssl --allow 301,302,307,403,404,410 --allow-timeout --set-timeout 5 --white-list origin.com,16personalities.com,wufoo.com,minecraft.net
